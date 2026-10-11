@@ -1,0 +1,6 @@
+{
+  "name": "School Management System",
+  "description": "Comprehensive enterprise school management system foundation with role-based architecture, academic, administrative, and multi-campus infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
